@@ -1,6 +1,6 @@
 # Instructions
 
-**Run This Script Using XTerm!!!**
+**Run This Script Using UXTerm!!!**
 
 Important: Make sure you are running Debian [ I prefer using Debian 10.0 (Buster) ]
 
