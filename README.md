@@ -23,7 +23,7 @@ Important: Make sure you are running Debian [ I prefer using Debian 10.0 (Buster
 To start you need: **git**
 
 ## Install git
-Switch to root mode by using: ```su```
+Switch to root mode by using: ```su``` **or** ```gksu``|
 
 Install git By Using: ```apt install git```
 
@@ -39,3 +39,6 @@ Then, Change Directory To Thiago-Script Using: ```cd Thiago-Script```
 Then, Give Permission To install.sh Using: ```chmod +x install.sh```
 
 Finally, Run The Script: ```./install.sh```
+
+
+Sudo: run sudo using: ```sudo [command]``` **or** ```gksudo [command]```
