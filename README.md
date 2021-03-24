@@ -1,3 +1,19 @@
+# Thiago
+
+What Is Thiago?
+
+**Thiago Is Debian 10 (Buster) Setup Configuration**
+
+Why I Should Use It?
+
+**...idk...**
+
+
+
+
+
+
+
 # Instructions
 
 **Run This Script Using UXTerm!!!**
