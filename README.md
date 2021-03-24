@@ -1,4 +1,9 @@
 # Instructions
+
+**Run This Script Using XTerm!!!**
+
+Important: Make sure you are running Debian [ I prefer using Debian 10.0 (Buster) ]
+
 To start you need: **git**
 
 ## Install git
